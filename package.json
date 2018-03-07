@@ -1,0 +1,22 @@
+{
+  "name": "the-great-mouse-detective",
+  "version": "1.0.0",
+  "description": "Learn how unit testing works by using “Red, Green, Refactor” video guide on team treehouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judy-njeru/The-Great-Mouse-Detective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judy-njeru/The-Great-Mouse-Detective/issues"
+  },
+  "homepage": "https://github.com/judy-njeru/The-Great-Mouse-Detective#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
